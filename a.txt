@@ -1,4 +1,0 @@
-HI this is user1
-this my 1'st file
-end
-hi
